@@ -55,3 +55,39 @@ footer li {
   font-size:16px;
   justify-content: space-between;
 }
+.workGrid1 {
+  float: left;
+  width: 33.3%;
+  padding: 50px;
+  border: 1px solid black;
+}
+.workGrid2 {
+  float: left;
+  width: 33.3%;
+  padding: 50px;
+  border: 1px solid black;
+}
+.workGrid3 {
+  float: left;
+  width: 33.3%;
+  padding: 50px;
+  border: 1px solid black;
+}
+.Skills2 {
+  float: left;
+  width: 33.3%;
+  padding: 50px;
+  border: 1px solid black;
+}
+.Skills3 {
+  float: left;
+  width: 33.3%;
+  padding: 50px;
+  border: 1px solid black;
+}
+.Skills4 {
+  float: left;
+  width: 33.3%;
+  padding: 50px;
+  border: 1px solid black;
+}
