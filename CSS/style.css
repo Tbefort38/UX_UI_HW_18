@@ -59,35 +59,44 @@ footer li {
   float: left;
   width: 33.3%;
   padding: 50px;
-  border: 1px solid black;
+  border: 2px solid black;
+  margin: 10px;
 }
 .workGrid2 {
   float: left;
   width: 33.3%;
   padding: 50px;
-  border: 1px solid black;
+  border: 2px solid black;
+  margin: 10px;
 }
 .workGrid3 {
   float: left;
   width: 33.3%;
   padding: 50px;
-  border: 1px solid black;
+  border: 2px solid black;
+  margin: 10px;
 }
 .Skills2 {
   float: left;
   width: 33.3%;
   padding: 50px;
-  border: 1px solid black;
+  border: 2px solid black;
+  margin: 10px;
 }
 .Skills3 {
   float: left;
   width: 33.3%;
   padding: 50px;
-  border: 1px solid black;
+  border: 2px solid black;
+  margin: 10px;
 }
 .Skills4 {
   float: left;
   width: 33.3%;
   padding: 50px;
-  border: 1px solid black;
+  border: 2px solid black;
+  margin: 10px;
+}
+@media screen and (max-width: 600px) {
+  flex-direction: flex-container;  
 }
